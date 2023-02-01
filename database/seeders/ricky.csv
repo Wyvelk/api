@@ -1,0 +1,21 @@
+name,status,species,_type,gender,image,episodes,created
+Rick Sanchez,Alive,Human,,Male,https://rickandmortyapi.com/api/character/avatar/1.jpeg,51,2017-11-04
+Morty Smith,Alive,Human,,Male,https://rickandmortyapi.com/api/character/avatar/2.jpeg,51,2017-11-04
+Summer Smith,Alive,Human,,Female,https://rickandmortyapi.com/api/character/avatar/3.jpeg,42,2017-11-04
+Beth Smith,Alive,Human,,Female,https://rickandmortyapi.com/api/character/avatar/4.jpeg,42,2017-11-04
+Jerry Smith,Alive,Human,,Male,https://rickandmortyapi.com/api/character/avatar/5.jpeg,39,2017-11-04
+Abadango Cluster Princess,Alive,Alien,,Female,https://rickandmortyapi.com/api/character/avatar/6.jpeg,1,2017-11-04,
+Abradolf Lincler,unknown,Human,Genetic experiment,Male,https://rickandmortyapi.com/api/character/avatar/7.jpeg,2,2017-11-04
+Adjudicator Rick,Dead,Human,,Male,https://rickandmortyapi.com/api/character/avatar/8.jpeg,1,2017-11-04
+Agency Director,Dead,Human,,Male,https://rickandmortyapi.com/api/character/avatar/9.jpeg,1,2017-11-04T20:06:54.976Z
+Alan Rails,Dead,Human,Superhuman Ghost trains summoner,Male,https://rickandmortyapi.com/api/character/avatar/10.jpeg,1,2017-11-04
+Albert Einstein,Dead,Human,,Male,https://rickandmortyapi.com/api/character/avatar/11.jpeg,1,2017-11-04
+Alexander,Dead,Human,,Male,https://rickandmortyapi.com/api/character/avatar/12.jpeg,1,2017-11-04T20:32:33.144Z
+Alien Googah,unknown,Alien,,unknown,https://rickandmortyapi.com/api/character/avatar/13.jpeg,1,2017-11-04
+Alien Morty,unknown,Alien,,Male,https://rickandmortyapi.com/api/character/avatar/14.jpeg,1,2017-11-04
+Alien Rick,unknown,Alien,,Male,https://rickandmortyapi.com/api/character/avatar/15.jpeg,1,2017-11-04
+Amish Cyborg,Dead,Alien,Parasite,Male,https://rickandmortyapi.com/api/character/avatar/16.jpeg,1,2017-11-04
+Annie,Alive,Human,,Female,https://rickandmortyapi.com/api/character/avatar/17.jpeg,1,2017-11-04
+Antenna Morty,Alive,Human,Human with antennae,Male,https://rickandmortyapi.com/api/character/avatar/18.jpeg,2,2017-11-04
+Antenna Rick,unknown,Human,Human with antennae,Male,https://rickandmortyapi.com/api/character/avatar/19.jpeg,1,2017-11-04
+Ants in my Eyes Johnson,unknown,Human,Human with ants in his eyes,Male,https://rickandmortyapi.com/api/character/avatar/20.jpeg,1,2017-11-04
